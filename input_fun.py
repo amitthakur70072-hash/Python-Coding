@@ -1,0 +1,8 @@
+a= int(input("enter a number: "))
+b= int(input("enter a number: "))
+print("the first number is: ",a)
+print("the second number is: ",b)
+print(f"sum of two numbers is: {a+b}") #print by using the f(format) string (2nd method)
+y=str(a)
+print(y)
+print(type(y))
